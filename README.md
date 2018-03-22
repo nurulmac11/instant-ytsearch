@@ -4,10 +4,14 @@ Instant Youtube search view.
 Powered by React.js framework.
 
 # Install
-git clone git@github.com:nurulmac11/instant-ytsearch.git
+```git clone git@github.com:nurulmac11/instant-ytsearch.git```
 
-npm install
+```npm install```
 
 Enter your youtube api key, "src/components/Youtube.js" #76
 
-npm start
+```npm start```
+
+# Demo
+
+http://nmacun.com/youtube-react/
