@@ -1,9 +1,9 @@
-#instant-ytsearch
+# instant-ytsearch
 
 Instant Youtube search view.
 Powered by React.js framework.
 
-#Install
+# Install
 git clone git@github.com:nurulmac11/instant-ytsearch.git
 
 npm install
