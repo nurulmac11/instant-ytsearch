@@ -5,7 +5,7 @@ Powered by React.js framework.
 
 # Demo
 
-An online demo is available at [demo][my website.]
+An online demo is available at [my website.][demo]
 
 # Installation
     
