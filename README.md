@@ -10,6 +10,7 @@ An online demo is available at [my website.][demo]
 # Installation
     
     $ git clone git@github.com:nurulmac11/instant-ytsearch.git
+    $ cd instant-ytsearch/
     $ npm install
     ...
     # Edit the 76th line on this file and enter your YouTube API key.
